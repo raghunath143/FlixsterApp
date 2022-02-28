@@ -20,7 +20,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://imgur.com/a/qIWDibC" width=250><br>
+<img src="Flixsterpart1.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
